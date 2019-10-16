@@ -1,0 +1,4 @@
+MatPlotLib-Challenge
+Pymaceuticals
+
+Tumor size shrank with Drugs Capomulin and Ramicane. Tumor size actually grew with all other drugs after the 45 day period. The survival rate of mice was best with Drugs Capomulin and Ramicane. 
